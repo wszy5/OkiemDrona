@@ -5,9 +5,26 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: bisque;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+header{
+  display: flex;
+  background-color: grey;
+  justify-content: space-around ;
+  align-items: center;
+}
+
+header h1{
+  font-family: 'Sansita', arial, serif;
+}
+header img{
+  width: 50px;
+  height: 50px;
+}
+
