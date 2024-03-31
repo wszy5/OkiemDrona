@@ -408,13 +408,21 @@ export const photos = [
       tag: "Granowo"
     },
     {
+<<<<<<< HEAD
       src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0141.JPG",
+=======
+      src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0144.JPG",
+>>>>>>> a0de803ae48bd60dd6d8c9382a249e417af9f925
       width: 4,
       height: 3,
       tag: "Granowo"
     },
     {
+<<<<<<< HEAD
       src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0144.JPG",
+=======
+      src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0141.JPG",
+>>>>>>> a0de803ae48bd60dd6d8c9382a249e417af9f925
       width: 4,
       height: 3,
       tag: "Granowo"
