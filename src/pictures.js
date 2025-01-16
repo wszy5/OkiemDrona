@@ -1,13 +1,13 @@
 export const photos = [
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Druzyn/DJI_0460.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1737058761/cld-sample-5.jpg",
     width: 4,
     height: 3,
     tag: "Druzyn",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Druzyn/DJI_0461.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1737058761/cld-sample-5.jpg",
     width: 4,
     height: 3,
     tag: "Druzyn",
