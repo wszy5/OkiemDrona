@@ -1,48 +1,48 @@
 export const photos = [
   {
-    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1737058761/cld-sample-5.jpg",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448545/DJI_0493_orzen1.jpg",
     width: 4,
     height: 3,
     tag: "Druzyn",
     alt: ""
   },
   {
-    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1737058761/cld-sample-5.jpg",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448480/DJI_0461_bybcos.jpg",
     width: 4,
     height: 3,
     tag: "Druzyn",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Druzyn/DJI_0467.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447584/DJI_0497_rcqn3u.jpg",
     width: 4,
     height: 3,
     tag: "Druzyn",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Druzyn/DJI_0468.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448479/DJI_0474_bq3x9t.jpg",
     width: 4,
     height: 3,
     tag: "Druzyn",
     alt: ""
   }, 
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Druzyn/DJI_0474.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448418/DJI_0468_a0fu4s.jpg",
     width: 4,
     height: 3,
     tag: "Druzyn",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Druzyn/DJI_0493.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448283/DJI_0467_w6tcyo.jpg",
     width: 4,
     height: 3,
     tag: "Druzyn",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Druzyn/DJI_0497.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448036/DJI_0460_uqcprc.jpg",
     width: 4,
     height: 3,
     tag: "Druzyn",
