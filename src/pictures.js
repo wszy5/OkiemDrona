@@ -378,301 +378,294 @@ export const photos = [
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Kotowo/DJI_0524.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448554/DJI_0921_srilpq.jpg",
     width: 4,
     height: 3,
     tag: "Kotowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Kotowo/DJI_0525.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448543/DJI_0902_sfj7gl.jpg",
     width: 4,
     height: 3,
     tag: "Kotowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Kotowo/DJI_0541.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448487/DJI_0847_lwouet.jpg",
     width: 4,
     height: 3,
     tag: "Kotowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Kotowo/DJI_0834.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448465/DJI_0834_zhuqkv.jpg",
     width: 4,
     height: 3,
     tag: "Kotowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Kotowo/DJI_0839.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448400/DJI_0842_wtq9ci.jpg",
     width: 4,
     height: 3,
     tag: "Kotowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Kotowo/DJI_0836.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448350/DJI_0845_aamnmp.jpg",
     width: 4,
     height: 3,
     tag: "Kotowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Kotowo/DJI_0842.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448336/DJI_0836_t5dau0.jpg",
     width: 4,
     height: 3,
     tag: "Kotowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Kotowo/DJI_0843.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448274/DJI_0843_gk47t9.jpg",
     width: 4,
     height: 3,
     tag: "Kotowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Kotowo/DJI_0845.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448157/DJI_0541_vve8db.jpg",
     width: 4,
     height: 3,
     tag: "Kotowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Kotowo/DJI_0847.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448034/DJI_0525_fffjua.jpg",
     width: 4,
     height: 3,
     tag: "Kotowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Kotowo/DJI_0902.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447706/DJI_0524_r2q3i2.jpg",
     width: 4,
     height: 3,
     tag: "Kotowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Kotowo/DJI_0921.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447579/DJI_0839_zm08gq.jpg",
     width: 4,
     height: 3,
     tag: "Kotowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0006.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448543/DJI_0751_v8juyc.jpg",
     width: 4,
     height: 3,
     tag: "Granowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0148.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448533/DJI_0225_ce35o6.jpg",
     width: 4,
     height: 3,
     tag: "Granowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0141.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448525/DJI_0036_jf3akn.jpg",
     width: 4,
     height: 3,
     tag: "Granowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0030.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448480/DJI_0230_rgihss.jpg",
     width: 4,
     height: 3,
     tag: "Granowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0036.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448415/DJI_0006_gonao6.jpg",
     width: 4,
     height: 3,
     tag: "Granowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0047.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448414/DJI_0047_m5fjkz.jpg",
     width: 4,
     height: 3,
     tag: "Granowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0057.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448347/DJI_0188_cnihgb.jpg",
     width: 4,
     height: 3,
     tag: "Granowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0060.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448347/DJI_0060_jyidlo.jpg",
     width: 4,
     height: 3,
     tag: "Granowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0079.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448343/DJI_0082_o5n8di.jpg",
     width: 4,
     height: 3,
     tag: "Granowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0082.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448284/DJI_0138_bj3hbb.jpg",
     width: 4,
     height: 3,
     tag: "Granowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0084.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448280/DJI_0057_tmss8n.jpg",
     width: 4,
     height: 3,
     tag: "Granowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0085.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448275/DJI_0299_kfu7we.jpg",
     width: 4,
     height: 3,
     tag: "Granowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0104.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448227/DJI_0084_nskqxj.jpg",
     width: 4,
     height: 3,
     tag: "Granowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0109.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448165/DJI_0141_dm7wno.jpg",
     width: 4,
     height: 3,
     tag: "Granowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0120.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448160/DJI_0085_jpgjhn.jpg",
     width: 4,
     height: 3,
     tag: "Granowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0138.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448160/DJI_0120_h9mvaq.jpg",
     width: 4,
     height: 3,
     tag: "Granowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0182.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448160/DJI_0450_uwhbrm.jpg",
     width: 4,
     height: 3,
     tag: "Granowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0188.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448155/DJI_0423_mh8a40.jpg",
     width: 4,
     height: 3,
     tag: "Granowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0144.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448105/DJI_0148_o2aqon.jpg",
     width: 4,
     height: 3,
     tag: "Granowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0218.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448104/DJI_0030_o2vwsc.jpg",
     width: 4,
     height: 3,
     tag: "Granowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0223.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448098/DJI_0223_snn5cs.jpg",
     width: 4,
     height: 3,
     tag: "Granowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0225.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448096/DJI_0939_cilknq.jpg",
     width: 4,
     height: 3,
     tag: "Granowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0230.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448091/DJI_0218_dyotuf.jpg",
     width: 4,
     height: 3,
     tag: "Granowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0299.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448046/DJI_0144_pdrm2t.jpg",
     width: 4,
     height: 3,
     tag: "Granowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0354.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448034/DJI_0182_r7rje3.jpg",
     width: 4,
     height: 3,
     tag: "Granowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0368.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447968/DJI_0354_k5lrj5.jpg",
     width: 4,
     height: 3,
     tag: "Granowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0423.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447965/DJI_0109_ii4hgy.jpg",
     width: 4,
     height: 3,
     tag: "Granowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0450.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447960/DJI_0104_dyoucd.jpg",
     width: 4,
     height: 3,
     tag: "Granowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0751.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447959/DJI_0368_gwl9cf.jpg",
     width: 4,
     height: 3,
     tag: "Granowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0939.JPG",
-    width: 4,
-    height: 3,
-    tag: "Granowo",
-    alt: ""
-  },
-  {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Granowo/DJI_0968.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447897/DJI_0079_clj14w.jpg",
     width: 4,
     height: 3,
     tag: "Granowo",
