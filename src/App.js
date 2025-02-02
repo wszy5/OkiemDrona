@@ -43,7 +43,7 @@ function App() {
             <option value="Mrzezyno">Mrzeżyno</option>
           </select>
         </form>
-        <img src="https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/dron.png" alt=""></img>
+        <img src="https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447336/dron_coudxs.png" alt=""></img>
       </header>
       <Gallery photos={filteredPhotos} onClick={openLightbox} />
       <ModalGateway>
