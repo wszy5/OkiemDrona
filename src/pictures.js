@@ -1,28 +1,28 @@
 export const photos = [
   {
     src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448545/DJI_0493_orzen1.jpg",
-    width: 4,
-    height: 3,
+    width: 6,
+    height: 6,
     tag: "Druzyn",
     alt: ""
   },
   {
     src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448480/DJI_0461_bybcos.jpg",
-    width: 4,
-    height: 3,
+    width: 6,
+    height: 6,
     tag: "Druzyn",
     alt: ""
   },
   {
     src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447584/DJI_0497_rcqn3u.jpg",
-    width: 4,
+    width: 6,
     height: 3,
     tag: "Druzyn",
     alt: ""
   },
   {
     src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448479/DJI_0474_bq3x9t.jpg",
-    width: 4,
+    width: 6,
     height: 3,
     tag: "Druzyn",
     alt: ""
@@ -49,329 +49,329 @@ export const photos = [
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Mrzezyno/DJI_0546.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447963/DJI_0715_biokrf.jpg",
     width: 4,
     height: 3,
     tag: "Mrzezyno",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Mrzezyno/DJI_0551.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447931/DJI_0555_mfe8bj.jpg",
     width: 4,
     height: 3,
     tag: "Mrzezyno",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Mrzezyno/DJI_0552.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447907/DJI_0705_qkcxtd.jpg",
     width: 4,
     height: 3,
     tag: "Mrzezyno",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Mrzezyno/DJI_0554.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447903/DJI_0678_ajo2af.jpg",
     width: 4,
     height: 3,
     tag: "Mrzezyno",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Mrzezyno/DJI_0555.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447898/DJI_0546_byvjej.jpg",
     width: 4,
     height: 3,
     tag: "Mrzezyno",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Mrzezyno/DJI_0559.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447897/DJI_0694_uw7wcd.jpg",
     width: 4,
     height: 3,
     tag: "Mrzezyno",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Mrzezyno/DJI_0561.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447842/DJI_0622_ru0pfo.jpg",
     width: 4,
     height: 3,
     tag: "Mrzezyno",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Mrzezyno/DJI_0583.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447836/DJI_0551_q2tgrr.jpg",
     width: 4,
     height: 3,
     tag: "Mrzezyno",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Mrzezyno/DJI_0592.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447836/DJI_0554_lwbw28.jpg",
     width: 4,
     height: 3,
     tag: "Mrzezyno",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Mrzezyno/DJI_0614.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447833/DJI_0614_cvmkij.jpg",
     width: 4,
     height: 3,
     tag: "Mrzezyno",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Mrzezyno/DJI_0622.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447833/DJI_0592_rkqhuf.jpg",
     width: 4,
     height: 3,
     tag: "Mrzezyno",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Mrzezyno/DJI_0647.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447775/DJI_0559_yx1psl.jpg",
     width: 4,
     height: 3,
     tag: "Mrzezyno",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Mrzezyno/DJI_0638.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447774/DJI_0561_lmjgms.jpg",
     width: 4,
     height: 3,
     tag: "Mrzezyno",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Mrzezyno/DJI_0665.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447580/DJI_0686_vo5yhc.jpg",
     width: 4,
     height: 3,
     tag: "Mrzezyno",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Mrzezyno/DJI_0678.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447580/DJI_0552_khuynh.jpg",
     width: 4,
     height: 3,
     tag: "Mrzezyno",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Mrzezyno/DJI_0686.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447578/DJI_0732_ogntxs.jpg",
     width: 4,
     height: 3,
     tag: "Mrzezyno",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Mrzezyno/DJI_0694.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447520/DJI_0696_p8hrdg.jpg",
     width: 4,
     height: 3,
     tag: "Mrzezyno",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Mrzezyno/DJI_0696.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447520/DJI_0665_fh56qy.jpg",
     width: 4,
     height: 3,
     tag: "Mrzezyno",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Mrzezyno/DJI_0705.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447517/DJI_0647_gzv6qc.jpg",
     width: 4,
     height: 3,
     tag: "Mrzezyno",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Mrzezyno/DJI_0715.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447516/DJI_0583_aboudq.jpg",
     width: 4,
     height: 3,
     tag: "Mrzezyno",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Mrzezyno/DJI_0732.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447514/DJI_0638_fvakzx.jpg",
     width: 4,
     height: 3,
     tag: "Mrzezyno",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Strykowo/DJI_0018.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448580/DJI_0439_pzf1sr.jpg",
     width: 4,
     height: 3,
     tag: "Strykowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Strykowo/DJI_0029.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448579/DJI_0445_fag6ym.jpg",
     width: 4,
     height: 3,
     tag: "Strykowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Strykowo/DJI_0031.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448572/DJI_0437_uoihts.jpg",
     width: 4,
     height: 3,
     tag: "Strykowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Strykowo/DJI_0040.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447803/DJI_0052_uvpptq.jpg",
     width: 4,
     height: 3,
     tag: "Strykowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Strykowo/DJI_0043.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447775/DJI_0065_jm5lce.jpg",
     width: 4,
     height: 3,
     tag: "Strykowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Strykowo/DJI_0045.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447768/DJI_0434_xmtzrx.jpg",
     width: 4,
     height: 3,
     tag: "Strykowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Strykowo/DJI_0052.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447768/DJI_0442_yjdd1e.jpg",
     width: 4,
     height: 3,
     tag: "Strykowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Strykowo/DJI_0065.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447708/DJI_0045_nzrjlb.jpg",
     width: 4,
     height: 3,
     tag: "Strykowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Strykowo/DJI_0434.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447708/DJI_0040_bzjc7q.jpg",
     width: 4,
     height: 3,
     tag: "Strykowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Strykowo/DJI_0437.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447707/DJI_0043_jfnwir.jpg",
     width: 4,
     height: 3,
     tag: "Strykowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Strykowo/DJI_0439.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447706/DJI_0031_nhjozm.jpg",
     width: 4,
     height: 3,
     tag: "Strykowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Strykowo/DJI_0442.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447646/DJI_0029_exg4rj.jpg",
     width: 4,
     height: 3,
     tag: "Strykowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Strykowo/DJI_0445.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447646/DJI_0018_merhol.jpg",
     width: 4,
     height: 3,
     tag: "Strykowo",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Wozniki/DJI_0001.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448411/DJI_0984_ygmik4.jpg",
     width: 4,
     height: 3,
     tag: "Wozniki",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Wozniki/DJI_0002.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448399/DJI_0519_nfllve.jpg",
     width: 4,
     height: 3,
     tag: "Wozniki",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Wozniki/DJI_0006.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448285/DJI_0514_rlfgkz.jpg",
     width: 4,
     height: 3,
     tag: "Wozniki",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Wozniki/DJI_0009.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448224/DJI_0499_uixmcm.jpg",
     width: 4,
     height: 3,
     tag: "Wozniki",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Wozniki/DJI_0012.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448224/DJI_0502_ztqiur.jpg",
     width: 4,
     height: 3,
     tag: "Wozniki",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Wozniki/DJI_0499.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448218/DJI_0511_tafpmt.jpg",
     width: 4,
     height: 3,
     tag: "Wozniki",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Wozniki/DJI_0502.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448216/DJI_0506_dvleh8.jpg",
     width: 4,
     height: 3,
     tag: "Wozniki",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Wozniki/DJI_0506.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448041/DJI_0995_ioegxp.jpg",
     width: 4,
     height: 3,
     tag: "Wozniki",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Wozniki/DJI_0511.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448026/DJI_0012_ynonbz.jpg",
     width: 4,
     height: 3,
     tag: "Wozniki",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Wozniki/DJI_0514.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447696/DJI_0009_bjtx12.jpg",
     width: 4,
     height: 3,
     tag: "Wozniki",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Wozniki/DJI_0519.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447645/DJI_0004_cpcl6q.jpg",
     width: 4,
     height: 3,
     tag: "Wozniki",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Wozniki/DJI_0984.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447645/DJI_0006_i7wgse.jpg",
     width: 4,
     height: 3,
     tag: "Wozniki",
     alt: ""
   },
   {
-    src: "https://qklrjrnisciqjcayiznd.supabase.co/storage/v1/object/public/dron/Wozniki/DJI_0995.JPG",
+    src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447642/DJI_0002_bvrsi6.jpg",
     width: 4,
     height: 3,
     tag: "Wozniki",
