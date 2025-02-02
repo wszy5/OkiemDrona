@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/OkiemDrona/static/css/main.766ae080.css",
-    "main.js": "/OkiemDrona/static/js/main.b321a074.js",
+    "main.js": "/OkiemDrona/static/js/main.c4f538a4.js",
     "static/js/592.923c89e3.chunk.js": "/OkiemDrona/static/js/592.923c89e3.chunk.js",
     "index.html": "/OkiemDrona/index.html",
     "main.766ae080.css.map": "/OkiemDrona/static/css/main.766ae080.css.map",
-    "main.b321a074.js.map": "/OkiemDrona/static/js/main.b321a074.js.map",
+    "main.c4f538a4.js.map": "/OkiemDrona/static/js/main.c4f538a4.js.map",
     "592.923c89e3.chunk.js.map": "/OkiemDrona/static/js/592.923c89e3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.766ae080.css",
-    "static/js/main.b321a074.js"
+    "static/js/main.c4f538a4.js"
   ]
 }
