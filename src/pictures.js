@@ -1,28 +1,28 @@
 export const photos = [
   {
     src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448545/DJI_0493_orzen1.jpg",
-    width: 6,
-    height: 6,
+    width: 4,
+    height: 3,
     tag: "Druzyn",
     alt: ""
   },
   {
     src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448480/DJI_0461_bybcos.jpg",
-    width: 6,
-    height: 6,
+    width: 4,
+    height: 3,
     tag: "Druzyn",
     alt: ""
   },
   {
     src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738447584/DJI_0497_rcqn3u.jpg",
-    width: 6,
+    width: 4,
     height: 3,
     tag: "Druzyn",
     alt: ""
   },
   {
     src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448479/DJI_0474_bq3x9t.jpg",
-    width: 6,
+    width: 4,
     height: 3,
     tag: "Druzyn",
     alt: ""
@@ -43,8 +43,8 @@ export const photos = [
   },
   {
     src: "https://res.cloudinary.com/dcvynuy8f/image/upload/v1738448036/DJI_0460_uqcprc.jpg",
-    width: 4,
-    height: 3,
+    width: 1,
+    height: 1,
     tag: "Druzyn",
     alt: ""
   },
